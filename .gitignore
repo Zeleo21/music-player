@@ -1,0 +1,5 @@
+musicPlayer/bin/
+musicPlayer/obj/
+musicPlayer/.idea
+*.json
+
